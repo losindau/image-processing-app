@@ -1,0 +1,1 @@
+Elastick Beanstalk domain name: http://imageprocessingapp-dev.us-east-1.elasticbeanstalk.com/
